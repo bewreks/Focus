@@ -1,0 +1,6 @@
+E:\Work\c#\Focus\Focus\bin\Release\Focus.exe
+E:\Work\c#\Focus\Focus\bin\Release\Focus.pdb
+E:\Work\c#\Focus\Focus\obj\Release\Focus.csprojResolveAssemblyReference.cache
+E:\Work\c#\Focus\Focus\obj\Release\Focus.csproj.CoreCompileInputs.cache
+E:\Work\c#\Focus\Focus\obj\Release\Focus.exe
+E:\Work\c#\Focus\Focus\obj\Release\Focus.pdb
